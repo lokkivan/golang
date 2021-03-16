@@ -4,11 +4,11 @@
 
 - [x] printLIstData
 - [x] addFirst
-- [ ] addLast
-- [ ] getFirst
-- [ ] getLast
-- [ ] set(int index, E element)
-- [ ] search
+- [x] addLast
+- [x] getFirst
+- [x] getLast
+- [x] set(value, E element)
+- [x] search
 - [x] delete first hit
 - [x] delete all hit
 - [ ] revers
