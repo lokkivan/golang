@@ -11,4 +11,4 @@
 - [x] search
 - [x] delete first hit
 - [x] delete all hit
-- [ ] revers
+- [x] revers
