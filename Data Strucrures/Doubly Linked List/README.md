@@ -2,13 +2,13 @@
 
  ## Methoods
 
-- [ ] printLIstData
-- [ ] addFirst
-- [ ] addLast
-- [ ] getFirst
-- [ ] getLast
+- [x] printLIstData
+- [x] addFirst
+- [x] addLast
+- [x] getFirst
+- [x] getLast
 - [ ] set(value, E element)
 - [ ] search
 - [ ] delete first hit
 - [ ] delete all hit
-- [ ] revers
+- [x] revers
